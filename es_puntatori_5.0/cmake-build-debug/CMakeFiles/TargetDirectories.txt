@@ -1,0 +1,3 @@
+/home/gianobefano/CLionProjects/es_puntatori_5.0/cmake-build-debug/CMakeFiles/es_puntatori_5_0.dir
+/home/gianobefano/CLionProjects/es_puntatori_5.0/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/gianobefano/CLionProjects/es_puntatori_5.0/cmake-build-debug/CMakeFiles/rebuild_cache.dir
